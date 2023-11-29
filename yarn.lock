@@ -345,10 +345,10 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@mightymeld/runtime@^0.1.33":
-  version "0.1.33"
-  resolved "https://registry.yarnpkg.com/@mightymeld/runtime/-/runtime-0.1.33.tgz#c386e4f20cd31c9eacd6bb685ccc449ab8eb3807"
-  integrity sha512-blwDf82xJ4lNSyw8WQdIVdL19mukQRIb03m1PaDKwncXCFWcdg1yGeWLiyV564/NAWx8jzffvQgsSEH1YPZ+tg==
+"@mightymeld/runtime@^0.1.38":
+  version "0.1.38"
+  resolved "https://registry.yarnpkg.com/@mightymeld/runtime/-/runtime-0.1.38.tgz#ed405b4b172c6e0d1fed7d3b1d8758cf41a98d3e"
+  integrity sha512-aCX1O0bse47My8BvKLNGgm3SkpFbzTix5abMqMmkG6AqEMP6AUKy7seSR7znDvWTQcbskZpNSp7rHFWDE5MUdQ==
   dependencies:
     chokidar "^3.5.3"
     open "^8.4.0"

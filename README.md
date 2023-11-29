@@ -6,3 +6,6 @@
 
 ## For MightyMeld
 Does it keep .env files secure
+yarn add --dev @mightymeld/runtime
+npx mightymeld init
+npx mightymeld
